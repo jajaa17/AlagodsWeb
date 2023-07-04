@@ -17,7 +17,7 @@ let products = [
     {
         id: 1,
         name: 'TAMchu',
-        image: 'tamchu.PNG',
+        image: 'tamchu.png',
         price: 64.99
 
     },
@@ -36,7 +36,7 @@ let products = [
     {
         id: 4,
         name: 'Gising',
-        image: 'gising.PNG',
+        image: 'gising.png',
         price: 44.99
     },
     {
@@ -48,14 +48,14 @@ let products = [
     {
         id: 6,
         name: 'Love',
-        image: 'love.PNG',
+        image: 'love.png',
         price: 44.99
     },
 
     {
         id: 7,
         name: 'Super Mario Keycaps',
-        image: 'Mario.PNG',
+        image: 'Mario.png',
         price: 99.99
 
     },
@@ -64,7 +64,7 @@ let products = [
     {
         id: 8,
         name: 'Werewolf',
-        image: 'Werewolf.PNG',
+        image: 'Werewolf.png',
         price: 99.99
 
     },
@@ -72,7 +72,7 @@ let products = [
     {
         id: 9,
         name: 'Gundam',
-        image: 'Unicorn.PNG',
+        image: 'Unicorn.png',
         price: 99.99
 
     },
