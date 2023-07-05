@@ -45,6 +45,9 @@ header .shopping span {
     padding: 3px 10px;
 }
 
+h1{
+    color:black;
+}
 .card {
     position: fixed;
     top: 0;
